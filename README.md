@@ -5,7 +5,7 @@
 ## 文責
 
 * 作成者：unkler
-* [@honjo_masanori](https://twitter.com/unkler)
+* [@unkler](https://twitter.com/unkler)
 
 
 ## ライセンス
